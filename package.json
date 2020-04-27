@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "css-loader": "^2.1.1",
+    "css-loader": "^3.5.3",
     "element-ui": "^2.0.10",
     "iview": "^3.3.3",
     "jquery": "^3.3.1",
