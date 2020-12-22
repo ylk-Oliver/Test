@@ -8,7 +8,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "css-loader": "^2.1.1",
     "element-ui": "^2.0.10",
     "iview": "^3.3.3",
